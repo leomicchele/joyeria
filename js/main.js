@@ -9,6 +9,5 @@ function scrollTop() {
             imgParallax.style.width = `${widthParallax}%`
             
         }
-        console.log(scrollTop)
     })
 }
